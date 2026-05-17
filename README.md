@@ -1,21 +1,3 @@
-<<<<<<< HEAD
-## Hi there 👋
-
-<!--
-**rimsha-noreen/rimsha-noreen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-=======
 # Rimsha Noreen | Researcher in Math & CS 👋
 
 Bézout Scholar specializing in **Graph Theory**, **Network Analysis**, and **Computational Modeling**. Currently focused on **Graph Neural Networks (GNNs)** for Smart Grid security.
@@ -75,14 +57,14 @@ Bézout Scholar specializing in **Graph Theory**, **Network Analysis**, and **Co
 ---
 
 ### 📈 GitHub Stats
-![Rimsha's GitHub stats](https://vercel.app)
+![Rimsha's GitHub stats](rimsha-noreen.github.io/portfolio/)
 ![Top Langs](https://vercel.app)
 
 ---
 
 ### 📫 Contact & Professional Profiles
 *   📧 **Email:** [ms.rimsha.noreen@gmail.com](mailto:ms.rimsha.noreen@gmail.com)
-*   📱 **Phone:** 0605863290
+*   📱 **Phone:** 33 605 863 290
 *   📍 **Location:** Champs-sur-Marne, France
 *   🎯 **Objective:** Pursuing a PhD at the intersection of Applied Math, CS, and Data Science.
 
