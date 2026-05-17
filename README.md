@@ -17,7 +17,7 @@ Bézout Scholar specializing in **Graph Theory**, **Network Analysis**, and **Co
 
 **Published Paper**
 *   *“Exploring Topological Indices and Entropy Measures of Phenylacetone Monooxygenase by Using Python Coding”*
-*   **Journal:** Journal of Molecular Graphics and Modelling, 137 (2025). [DOI: 10.1016/j.jmgm.2025.108981]
+*   **Journal:** Journal of Molecular Graphics and Modelling, 137 (2025). [DOI: 10.1016/j.jmgm.2025.108981](DOI: 10.1016/j.jmgm.2025.108981)
 
 ---
 
