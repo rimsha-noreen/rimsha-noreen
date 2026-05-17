@@ -57,7 +57,7 @@ Bézout Scholar specializing in **Graph Theory**, **Network Analysis**, and **Co
 ---
 
 ### 📈 GitHub Stats
-![Rimsha's GitHub stats](rimsha-noreen.github.io/portfolio/)
+![Rimsha's GitHub stats](https://vercel.app)
 ![Top Langs](https://vercel.app)
 
 ---
